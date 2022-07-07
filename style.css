@@ -8,9 +8,7 @@ body {
     background-image: url(images/donation6.jpg);
     width: 100%;
     background-size: cover;
-
     background-position: 100%;
-
 }
 
 .main-leter {
@@ -23,7 +21,6 @@ body {
     line-height: 150%;
     font-weight: 100px;
     font-size: 20px;
-
 }
 
 h1 {
@@ -53,7 +50,7 @@ h1 {
     line-height: 150%;
     font-weight: 100px;
     font-size: 20px;
-    padding-bottom: 100px;
+    padding-bottom: 80px;
 
 }
 .amount-box{
@@ -69,26 +66,22 @@ h1 {
     font-size: 150%;
     font-weight: 700;
     margin-bottom: 100%;
-   
-    
-    
-}  
+} 
+
 #orang{
     color: coral;
     border: solid 5px;
     border-color: tomato;
 }
+
 #space{
     margin-left: 500px;
 }
 
-
-
 .donate-plan-title {
     text-align: center;
     font-size: 30px;
-    padding-top: 10%;
-    
+    padding-top: 10%;   
 } 
 
 .donate-plan-box{
@@ -120,33 +113,39 @@ h1 {
 
 .flaxible{
     display: flex;
+    width: 100%;
 }
 
+.half-width{
+    padding: 5%;
+}
+
+#bule-button{
+   background-color: rgb(33, 33, 163);
+}
 
 .subscribe-section {
     
     text-align: center;
     padding-bottom: 10%;
 }
+
 input {
     text-align: center;
-    background-color:rgb(240, 234, 148)
-    padding: 10px 40px;
-    
-
+    padding: 10px 50px;
+    margin: 0%;
+    background-color:rgb(240, 234, 148) 
 }
+
 .subscribe-gmail {
     display: inline-block;
     background-color: bisque;
-    padding: 60px;
-   
-    
+    padding: 80px;
 }
 .subscribe-button {
     color: white;
     padding: 10px 40px;
-    background-color: tomato;
-    
+    background-color: tomato;  
 }
 
 footer{
@@ -154,17 +153,15 @@ footer{
     padding-top: 5%;
     background-color: rgb(1, 1, 17);
    height: 150px;
-    width: 100% 100%
-    
-    
-    
-}  
+    width: 100% 100%  
+} 
+
 span{
     color: tomato;
     font-family: Arial, Helvetica, sans-serif;
 }
+
 .last-text{
     color: white;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    
 }
